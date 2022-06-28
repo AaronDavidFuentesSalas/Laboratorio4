@@ -26,3 +26,17 @@ Explicacion del procedimiento
 
 Resultados en el simulador Tinkercad
 
+![image](https://user-images.githubusercontent.com/105386939/176058992-272d5708-0ac1-4b29-a204-09f14dca4892.png)
+
+![image](https://user-images.githubusercontent.com/105386939/176059079-526659fc-f77c-428d-be62-d27ce79d544f.png)
+
+![image](https://user-images.githubusercontent.com/105386939/176059158-21ce5578-0a1b-4a3d-970c-d2e65f49cdb2.png)
+
+![image](https://user-images.githubusercontent.com/105386939/176059340-0272d844-bb09-4aa9-a6a5-7e95da000264.png)
+
+![image](https://user-images.githubusercontent.com/105386939/176059446-d17eff67-9dfb-47fb-9827-fdcb87cec112.png)
+
+![image](https://user-images.githubusercontent.com/105386939/176059578-a9869ad8-d3a0-41f9-9ce4-9199491dfbf8.png)
+
+
+
