@@ -50,6 +50,7 @@ Una fuente de corriente ideal es la que nos suministra una intensidad constante 
 
 
 
+
 3. EXPLICACION DEL PROCEDIMIENTO
    
 ![1](https://user-images.githubusercontent.com/105386939/176024074-ebc1e2a8-7391-43bb-935a-f85d326d2f49.jpg)
