@@ -88,6 +88,8 @@ VOLTAJE
 
 5. VIDEO
 
+https://youtu.be/8P-Hp4YIAZ0
+
 6. CONCLUSIONES
 
 •	Hay veces que el uso de la superposición para poder encontrar voltajes y corrientes son más eficientes que cuando usamos otros métodos como análisis de nodos o análisis de mallas, nos puede facilitar cálculos y ahorrarnos tiempo, es por eso que es importante saber cuándo se debe usar y como emplearlo cuando se tiene varias fuentes de voltaje o corriente.
